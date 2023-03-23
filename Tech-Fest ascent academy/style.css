@@ -1,0 +1,31 @@
+body{background: linear-gradient(109.6deg, rgb(28, 22, 25) 32.4%, rgb(47, 178, 97) 98.8%);}
+.bgcolor{
+    background-color: yellow;
+    color: black;
+    font-weight: bold;
+
+}
+.header{
+    color: yellow;
+}
+.green{
+    background-image: linear-gradient( 135deg, rgb(240,124,65) 10%, #880315 100%);
+    color: white;
+}
+.b1{
+    color: whitesmoke;
+}
+.panda{
+  color: rgb(159, 20, 20);
+  font-size: larger;
+  font-weight: bold;
+  font-style: normal;
+}
+.pic{
+  background-image: url(download.png);
+  background-size: 100%;
+  
+}
+.letter{
+  color: aliceblue;
+}
